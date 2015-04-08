@@ -1,4 +1,4 @@
-# Prometeos-Accra
+# Prometheus-Accra
 Accra self hosted Web client to catch every error.
 
 **TODO**
